@@ -19,4 +19,6 @@ Terima kasih pada Programmer Zaman Now sudah mengupload video yang berisikan mat
 
 Bagi kalian yang ingin belajar pemrograman juga, dapat kunjungi Website atau Youtube-nya. Jangan lupa subscribe, dan share bagi yang membutuhkan.
 
-[Youtube][https://www.youtube.com/programmerzamannow] [Website][https://www.programmerzamannow.com/]
+[Youtube](https://www.youtube.com/programmerzamannow)
+
+[Website](https://www.programmerzamannow.com/)
